@@ -1,5 +1,3 @@
-# 梳理系统的项目背景以及整个系统架构设计与运转流程
-
 Date Created: August 17, 2022 5:11 PM
 Status: Doing
 
